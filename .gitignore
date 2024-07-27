@@ -1,0 +1,7 @@
+bench_press/*
+deadlift/*
+squat/*
+.ipynb_checkpoints/*
+*.csv
+# for now until I get a good model made
+*.h5
