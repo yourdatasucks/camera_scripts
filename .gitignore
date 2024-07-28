@@ -5,3 +5,4 @@ squat/*
 *.csv
 # for now until I get a good model made
 *.h5
+logs/*

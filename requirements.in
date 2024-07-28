@@ -1,0 +1,10 @@
+tensorflow<2.11
+pandas
+opencv-python
+tk
+customtkinter
+pillow
+mediapipe
+numpy<2
+notebook
+scikit-learn
