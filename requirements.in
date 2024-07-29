@@ -4,7 +4,8 @@ opencv-python
 tk
 customtkinter
 pillow
-mediapipe
+mediapipe==0.9.1.0
+protobuf==3.19.6
 numpy<2
 notebook
 scikit-learn
